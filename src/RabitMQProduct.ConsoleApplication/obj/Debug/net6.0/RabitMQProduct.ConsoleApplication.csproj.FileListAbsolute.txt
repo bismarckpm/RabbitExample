@@ -1,0 +1,34 @@
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabitMQProduct.ConsoleApplication.exe
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabitMQProduct.ConsoleApplication.deps.json
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabitMQProduct.ConsoleApplication.runtimeconfig.json
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabitMQProduct.ConsoleApplication.dll
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabitMQProduct.ConsoleApplication.pdb
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.csproj.AssemblyReference.cache
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.AssemblyInfoInputs.cache
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.AssemblyInfo.cs
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.csproj.CopyComplete
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.dll
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\refint\RabitMQProduct.ConsoleApplication.dll
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.pdb
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.genruntimeconfig.cache
+D:\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\ref\RabitMQProduct.ConsoleApplication.dll
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\Rabbit\RabitMqProductAPI\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabitMQProduct.ConsoleApplication.exe
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\Rabbit\RabitMqProductAPI\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabitMQProduct.ConsoleApplication.deps.json
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\Rabbit\RabitMqProductAPI\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabitMQProduct.ConsoleApplication.runtimeconfig.json
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\Rabbit\RabitMqProductAPI\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabitMQProduct.ConsoleApplication.dll
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\Rabbit\RabitMqProductAPI\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabitMQProduct.ConsoleApplication.pdb
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\Rabbit\RabitMqProductAPI\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\Rabbit\RabitMqProductAPI\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.csproj.AssemblyReference.cache
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\Rabbit\RabitMqProductAPI\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\Rabbit\RabitMqProductAPI\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.AssemblyInfoInputs.cache
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\Rabbit\RabitMqProductAPI\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.AssemblyInfo.cs
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\Rabbit\RabitMqProductAPI\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\Rabbit\RabitMqProductAPI\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.csproj.CopyComplete
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\Rabbit\RabitMqProductAPI\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.dll
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\Rabbit\RabitMqProductAPI\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\refint\RabitMQProduct.ConsoleApplication.dll
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\Rabbit\RabitMqProductAPI\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.pdb
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\Rabbit\RabitMqProductAPI\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\RabitMQProduct.ConsoleApplication.genruntimeconfig.cache
+D:\UCAB\Desarrollo Software\Semestre Mar - Jul 2023\Repositorios\Rabbit\RabitMqProductAPI\RabitMqProductAPI\RabitMQProduct.ConsoleApplication\obj\Debug\net6.0\ref\RabitMQProduct.ConsoleApplication.dll
